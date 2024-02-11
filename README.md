@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="https://dribbble.com/shots/2563861--omputer/attachments/9366857?mode=media" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://dribbble.com/shots/5487982-Developers-Gif?utm_source=Clipboard_Shot&utm_campaign=teckartist&utm_content=Developers%20Gif&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=teckartist&utm_content=Developers%20Gif&utm_medium=Social_Share" width=100% height="300px" align="center"/>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALC1996&label=Profile%20views&color=0e75b6&style=flat" alt="ALC1996" /> </p>
