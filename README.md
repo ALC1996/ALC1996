@@ -26,13 +26,10 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="40" height="40"/> </a> 
   
 
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALC1996s&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-fares&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=h-fares&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ALC1996&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
 
 -------
 <details>
