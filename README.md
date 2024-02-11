@@ -13,7 +13,7 @@
         <li>😄 Pronouns: she/her</li>
         <li>⚡ Fun fact: The world's first computer programmer was a woman named Ada Lovelace </li>
         <li>🏆 Achievements: Currently enrolled in a bootcamp with a predicted grade of 100%</li>
-        <li>🎯 Goals: To design and create great goals and expand on my coding languages, frameworks, and tools!</li>
+        <li>🎯 Goals: To design and create great code and expand on my coding languages, frameworks, and tools!</li>
         <li>📚 Help me: Open to any help or ideas. There is no I in team!</li>
       </ul>
     </td>
