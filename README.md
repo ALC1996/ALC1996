@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="https://giphy.com/gifs/UiWSYM6E9cWX1yehCc" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://media1.giphy.com/media/UiWSYM6E9cWX1yehCc/giphy.gif" width=100% height="300px" align="center"/>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALC1996&label=Profile%20views&color=0e75b6&style=flat" alt="ALC1996" /> </p>
