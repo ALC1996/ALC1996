@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td>
-      <img alt="Night Coding" src="https://media1.giphy.com/media/UiWSYM6E9cWX1yehCc/giphy.gif" height=300px align="center"/>
+      <img alt="Night Coding" src="https://media1.giphy.com/media/UiWSYM6E9cWX1yehCc/giphy.gif" height=400px align="center"/>
     </td>
   </tr>
 </table>
