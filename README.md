@@ -6,7 +6,7 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ALC1996&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ALC1996&label=Profile%20views&color=0e75b6&style=flat" alt="ALC1996" /> </p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
@@ -24,12 +24,10 @@
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="40" height="40"/> </a> 
-  
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALC1996&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg1emo3M2h6MWdwaWgzcDBiMHQzOW5yM2ZjdmtpZWJucjBxeGQ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="Visual studio code" width="40" height="40"/> </a> 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ALC1996&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALC1996&show_icons=true&theme=dark&locale=en&layout=compact" alt="ALC1996" align=center/></p>
 
 
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=ALC1996&show_icons=true&theme=dark&locale=en" alt="ALC1996" align=center/></p>
