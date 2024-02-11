@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="https://tenor.com/search/website-gifs" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://cdn270.picsart.com/e77267ce-7d8b-43bc-867f-894beb2fd48a/445357923044201.gif" width=100% height="300px" align="center"/>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALC1996&label=Profile%20views&color=0e75b6&style=flat" alt="ALC1996" /> </p>
-<div class="tenor-gif-embed" data-postid="19512437" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/website-gif-19512437">Website GIF</a>from <a href="https://tenor.com/search/website-gifs">Website GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
