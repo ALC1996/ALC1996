@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALC1996&label=Profile%20views&color=0e75b6&style=flat" alt="ALC1996" /> </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
  <a href="https://www.linkedin.com/in/alex-crosby-21b1282a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
   <a href="mailto:alexcrosbywork@hotmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="elhani" height="40" width="50" /></a>
